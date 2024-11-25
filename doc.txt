@@ -1,0 +1,5 @@
+COMANDS: 
+
+Inicialização do projeto (expo): 
+    npm install expo-cli --global
+    expo init FinDrive 
